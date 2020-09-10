@@ -1,7 +1,5 @@
-github.com/bsm/go-benchmark v0.0.0-20200909161828-547e438b078a h1:GavBBZ9/Gpc3L0zuwi9HngMhSoXa7Mxzo0F0Tv+6gyg=
-github.com/bsm/nanoid v0.0.0-20200910102921-d09f95a64276/go.mod h1:iuFLwAnFJz8lXrVi81XvUF3QGr4RjO5oosTboKEIx9s=
-github.com/bsm/nanoid v0.0.0-20200910110734-5b3cd168532e h1:bjdvxKu8gt0Z/Qdaun2XOIppeCj6xtS2/WGT0yZULko=
-github.com/bsm/nanoid v0.0.0-20200910110734-5b3cd168532e/go.mod h1:iuFLwAnFJz8lXrVi81XvUF3QGr4RjO5oosTboKEIx9s=
+github.com/bsm/nanoid v0.0.0-20200910144403-8571f20cb821 h1:rZaEpdCFM70ipjc6QNU/9XJ/9Aby/jipHc0Xz78d5mU=
+github.com/bsm/nanoid v0.0.0-20200910144403-8571f20cb821/go.mod h1:iuFLwAnFJz8lXrVi81XvUF3QGr4RjO5oosTboKEIx9s=
 github.com/chilts/sid v0.0.0-20190607042430-660e94789ec9 h1:z0uK8UQqjMVYzvk4tiiu3obv2B44+XBsvgEJREQfnO8=
 github.com/chilts/sid v0.0.0-20190607042430-660e94789ec9/go.mod h1:Jl2neWsQaDanWORdqZ4emBl50J4/aRBBS4FyyG9/PFo=
 github.com/fogfish/guid v0.0.0-20200708211704-777452e2281e h1:u9hd8Cecf1nKqklGlZ9N6a/vfVPEwqMQl0D9c95l2Yk=
@@ -15,8 +13,6 @@ github.com/itrabbit/rid v0.0.0-20180228105423-66830c48b4f0 h1:mMheW/slcSbcEE2xkC
 github.com/itrabbit/rid v0.0.0-20180228105423-66830c48b4f0/go.mod h1:MhGiZciaqOnrUc5Jb7voQT3BysM5GdfY3L/xlXzqHf4=
 github.com/kjk/betterguid v0.0.0-20170621091430-c442874ba63a h1:b+Gt8sQs//Sl5Dcem5zP9Qc2FgEUAygREa2AAa2Vmcw=
 github.com/kjk/betterguid v0.0.0-20170621091430-c442874ba63a/go.mod h1:uxRAhHE1nl34DpWgfe0CYbNYbCnYplaB6rZH9ReWtUk=
-github.com/lithammer/shortuuid v3.0.0+incompatible h1:NcD0xWW/MZYXEHa6ITy6kaXN5nwm/V115vj2YXfhS0w=
-github.com/lithammer/shortuuid v3.0.0+incompatible/go.mod h1:FR74pbAuElzOUuenUHTK2Tciko1/vKuIKS9dSkDrA4w=
 github.com/lithammer/shortuuid/v3 v3.0.4 h1:uj4xhotfY92Y1Oa6n6HUiFn87CdoEHYUlTy0+IgbLrs=
 github.com/lithammer/shortuuid/v3 v3.0.4/go.mod h1:RviRjexKqIzx/7r1peoAITm6m7gnif/h+0zmolKJjzw=
 github.com/matoous/go-nanoid v1.4.1 h1:Yag04X+qPMDtYbyJsMDhoe8rP5kRl293b2QK8KRp2SE=
