@@ -2,6 +2,27 @@
 
 The benchmark compares methods of generating a globally unique string identifier (GUID).
 
+## Random IDs
+
+Randomly generated unique IDs are uniform and do not share attributes - e.g. [UUIDv4](https://en.wikipedia.org/wiki/Universally_unique_identifier#Version_4_(random). Each ID is entirely unpredictable, unique and non-incremental.
+
+* [bsm/nanoid](https://github.com/bsm/nanoid)
+* [google/uuid](https://github.com/google/uuid)
+* [lithammer/shortuuid](https://github.com/lithammer/shortuuid)
+* [matoous/go-nanoid](https://github.com/matoous/go-nanoid)
+
+## Sortable IDs
+
+Sortable IDs are incremental and lexicographically sortable. They usually share a common part that is host/pid specific + a current timestamp element.
+
+* [chilts/sid](https://github.com/chilts/sid)
+* [fogfish/guid](https://github.com/fogfish/guid)
+* [itrabbit/rid](https://github.com/itrabbit/rid)
+* [kjk/betterguid](https://github.com/kjk/betterguid)
+* [rs/xid](https://github.com/rs/xid)
+* [segmentio/ksuid](https://github.com/segmentio/ksuid)
+* [wmentor/uniq](https://github.com/wmentor/uniq)
+
 ## Results
 
 ```
