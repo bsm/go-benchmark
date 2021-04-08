@@ -1,7 +1,5 @@
 # Go (Awesome) Benchmarks
 
-[![Build Status](https://travis-ci.org/bsm/go-benchmark.svg?branch=master)](https://travis-ci.org/bsm/go-benchmark)
-
 This is a collection of various benchmarks for [Go](https://golang.org).
 
 ## Contributing
@@ -15,8 +13,10 @@ Contibutions are very welcome, but please take a quick look at our very short [c
 - hash/
   - [noncrypto](./hash/noncrypto/) - comparison of non-cryptographic hash methods.
 - rand/
-  - [guid](./rand/guid/) - comparison globally unique ID generators.
+  - [guid](./rand/guid/) - comparison of globally unique ID generators.
+- sketch/
+  - [histogram](./sketch/histogram/) - comparison of histogram sketches.
 
 ## Results
 
-Latest results can be found on [Travis-CI](https://travis-ci.org/github/bsm/go-benchmark).
+Latest results can be found on [Github](https://github.com/bsm/go-benchmark/actions?query=workflow%3Arun+branch%3Amain+is%3Asuccess).
