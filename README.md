@@ -16,7 +16,9 @@ Contibutions are very welcome, but please take a quick look at our very short [c
   - [guid](./rand/guid/) - comparison of globally unique ID generators.
 - sketch/
   - [histogram](./sketch/histogram/) - comparison of histogram sketches.
+- store/
+  - [kv](./store/kv/) - comparison of disk based, embeddable key-value stores.
 
 ## Results
 
-Latest results can be found on [Github](https://github.com/bsm/go-benchmark/actions?query=workflow%3Arun+branch%3Amain+is%3Asuccess).
+Latest results can be found on [Github](https://github.com/bsm/go-benchmark/actions?query=workflow%3Abench+branch%3Amain+is%3Asuccess).
