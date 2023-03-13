@@ -5,7 +5,7 @@ import (
 
 	"github.com/bsm/nanoid"
 	"github.com/chilts/sid"
-	"github.com/fogfish/guid"
+	"github.com/fogfish/guid/v2"
 	"github.com/google/uuid"
 	"github.com/itrabbit/rid"
 	"github.com/kjk/betterguid"
@@ -18,7 +18,7 @@ import (
 
 func uuidNew() string     { return uuid.New().String() }
 func gonanoidNew() string { s, _ := gonanoid.Nanoid(); return s }
-func guidNew() string     { return guid.Seq.G().String() }
+func guidNew() string     { return guid.G(guid.Clock).String() }
 func ridNew() string      { return rid.New().String() }
 func xidNew() string      { return xid.New().String() }
 func ksuidNew() string    { return ksuid.New().String() }
