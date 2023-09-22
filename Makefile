@@ -1,8 +1,6 @@
-GO_MOD_FILES=$(shell find . -name 'go.mod')
-
 default: bench
 
-bench: $(patsubst %/go.mod,bench/%,$(GO_MOD_FILES))
+.common.makefile:
+	curl -fsSL -o $@ https://gitlab.com/bsm/misc/raw/master/make/go/common.makefile
 
-bench/%: %
-	cd $< && go test ./... -run=NONE -bench=. -benchmem
+include .common.makefile
