@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/akrylysov/pogreb v0.10.1
-	github.com/cockroachdb/pebble v0.0.0-20230922034545-d038189d72d9
+	github.com/cockroachdb/pebble v0.0.0-20230922144958-86593692e09f
 	github.com/dgraph-io/badger/v3 v3.2103.5
 	github.com/recoilme/pudge v1.0.3
 	github.com/recoilme/sniper v0.4.1
@@ -42,7 +42,7 @@ require (
 	github.com/tidwall/interval v0.0.0-20191207210631-da4d74c2f07b // indirect
 	go.opencensus.io v0.22.5 // indirect
 	golang.org/x/exp v0.0.0-20230626212559-97b1e661b5df // indirect
-	golang.org/x/net v0.0.0-20210525063256-abc453219eb5 // indirect
+	golang.org/x/net v0.7.0 // indirect
 	golang.org/x/sys v0.11.0 // indirect
 	google.golang.org/protobuf v1.27.1 // indirect
 )
