@@ -17,5 +17,5 @@ require (
 
 require (
 	github.com/shivakar/xxhash v0.0.0-20160821164220-5ea66fb45566 // indirect
-	github.com/stretchr/testify v1.8.4 // indirect
+	github.com/stretchr/testify v1.9.0 // indirect
 )
