@@ -5,6 +5,7 @@ github.com/cespare/xxhash v1.1.0/go.mod h1:XrSqR1VqqWfGrhpAt58auRo0WTKS1nRRg3ghf
 github.com/creachadair/cityhash v0.1.1 h1:lFsixblDY79QBwzGNQWRvMu4mOBIuV+g3sz/3Vy3pk0=
 github.com/creachadair/cityhash v0.1.1/go.mod h1:QhWJSDPs/2AkcOUL8Ogz0ZzA5acyIihEzKBG/9NTUHs=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/dgryski/go-farm v0.0.0-20200201041132-a6ae2369ad13 h1:fAjc9m62+UWV/WAFKLNi6ZS0675eEUC9y3AlwSbQu1Y=
 github.com/dgryski/go-farm v0.0.0-20200201041132-a6ae2369ad13/go.mod h1:SqUrOPUnsFjfmXRMNPybcSiG0BgUW2AuFH8PAnS2iTw=
 github.com/dgryski/go-metro v0.0.0-20211217172704-adc40b04c140 h1:y7y0Oa6UawqTFPCDw9JG6pdKt4F9pAhHv0B7FMGaGD0=
@@ -18,6 +19,7 @@ github.com/dgryski/go-wyhash v0.0.0-20191203203029-c4841ae36371/go.mod h1:/ENMIO
 github.com/mmcloughlin/meow v0.0.0-20200201185800-3501c7c05d21 h1:2BIiU0QuELctVxpl6FKAsf68ZZvI89I9c8Kt8Guxba8=
 github.com/mmcloughlin/meow v0.0.0-20200201185800-3501c7c05d21/go.mod h1:uxCZJI8Z1PD2WRnSJtVJGHCyxC5qWhz5lOsx3Bx1NXo=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
+github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/shivakar/metrohash v0.0.0-20160821164112-8d1c8b6bed28 h1:T0pHmIIcYaJ1wFBkZtjKEMJ7mHb7iuFS9jH0hZOaXME=
 github.com/shivakar/metrohash v0.0.0-20160821164112-8d1c8b6bed28/go.mod h1:iPY+DBBhMwu94EsrqYzmQYJYZpMAHuBdToFD//nbb00=
 github.com/shivakar/xxhash v0.0.0-20160821164220-5ea66fb45566 h1:h1L+TECcYYeIRv4ZWpcCe5fo0SEWVdqdpaBjv4NbqfQ=
@@ -28,3 +30,4 @@ github.com/spaolacci/murmur3 v1.1.0/go.mod h1:JwIasOWyU6f++ZhiEuf87xNszmSA2myDM2
 github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcUk=
 github.com/stretchr/testify v1.8.4/go.mod h1:sz/lmYIOXD/1dqDmKjjqLyZ2RngseejIcXlSw2iwfAo=
 gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
+gopkg.in/yaml.v3 v3.0.1/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=

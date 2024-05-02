@@ -1,6 +1,6 @@
 module github.com/bsm/go-benchmark/store/kv
 
-go 1.20
+go 1.21
 
 require (
 	github.com/akrylysov/pogreb v0.10.1

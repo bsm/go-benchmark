@@ -1,6 +1,6 @@
 module github.com/bsm/go-benchmark/rand/guid
 
-go 1.20
+go 1.21
 
 require (
 	github.com/bsm/nanoid v0.2.0
