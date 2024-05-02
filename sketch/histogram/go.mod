@@ -1,6 +1,6 @@
 module github.com/bsm/go-benchmark/sketch/histogram
 
-go 1.20
+go 1.21
 
 require (
 	github.com/ajwerner/tdigest v0.0.0-20190922175426-9165f388a6b2
