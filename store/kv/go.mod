@@ -1,6 +1,7 @@
 module github.com/bsm/go-benchmark/store/kv
 
 go 1.21
+toolchain go1.24.1
 
 require (
 	github.com/akrylysov/pogreb v0.10.2
@@ -43,8 +44,8 @@ require (
 	github.com/tidwall/interval v0.0.0-20191207210631-da4d74c2f07b // indirect
 	go.opencensus.io v0.22.5 // indirect
 	golang.org/x/exp v0.0.0-20230626212559-97b1e661b5df // indirect
-	golang.org/x/net v0.24.0 // indirect
-	golang.org/x/sys v0.19.0 // indirect
-	golang.org/x/text v0.14.0 // indirect
+	golang.org/x/net v0.38.0 // indirect
+	golang.org/x/sys v0.31.0 // indirect
+	golang.org/x/text v0.23.0 // indirect
 	google.golang.org/protobuf v1.34.0 // indirect
 )
